@@ -5,8 +5,6 @@ Author: Max Base
 Date: 03/12/2025
 Repository: https://github.com/BaseMax/brainfuck-interpreter-python
 License: MIT
-
-This interpreter is a port and improvement over the original C version by Fabian Mastenbroek.
 """
 
 import sys
